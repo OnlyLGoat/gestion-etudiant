@@ -11,6 +11,10 @@ Ce projet propose deux applications pour la gestion des étudiants et enseignant
 - Validation des entrées et gestion des erreurs
 - Persistance des données via MySQL
 
+## Project Picture
+
+![Auth UI Vue](https://img.sanishtech.com/u/4e1483786d3d8fd3725bd809f968fc67.png)  
+
 ## Structure du projet
 
 - [`Gestion_Etudiant_V5.py`](Gestion_Etudiant_V5.py) : Version graphique (Tkinter)
@@ -75,7 +79,7 @@ python Gestion_Etudiant_V5.py
 
 ## Auteurs
 
-- Projet réalisé par Med El Anani
+- Projet réalisé par Mohamed
 
 ## Remarques
 
